@@ -1,4 +1,4 @@
-# Dockerized ASP.NET Core 3 Web API app in Heroku
+# Dockerized ASP.NET Core 3 demo Web API app in Heroku
 
 ## [Medium Article 1: Deploy a Dockerized ASP.NET Core 3 Web API app to Heroku](https://codeburst.io/deploy-a-containerized-asp-net-core-app-to-heroku-using-github-actions-9e54c72db943)
 
